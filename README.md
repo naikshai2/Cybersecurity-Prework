@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 The following advanced user stories are optional:
 
 * [X]  Bonus 1: IDOR Challenge 2 
-* [ ]  Bonus 2: IDOR Bank Challenge 3
+* [X]  Bonus 2: IDOR Bank Challenge 3
 
 ## Video Walkthrough
 
